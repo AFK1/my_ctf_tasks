@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: flag_m4k3r
